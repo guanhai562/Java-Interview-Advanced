@@ -21,14 +21,6 @@
 
 ### 公众号:儒猿技术窝
 
-更多技术干货，请扫描下方二维码，关注公众号儒猿技术窝
-
-![我的公众号](/images/limaojishuwo.jpeg)
-
-![儒猿技术窝](https://apppukyptrl1086.pc.xiaoe-tech.com/index)
-
-
-
 ## 目录
 
 - [互联网Java面试指南](#面试指南)
@@ -573,6 +565,15 @@
 
 - [152、ThreadLocal内存泄漏问题以及专栏最终总结](/docs/03/152.md)
 
+## C2C电商系统微服务架构120天实战训练营
+
+- [C2C电商系统微服务架构120天实战训练营](docs/c2c/REAME.md)
+
+本周课程中的笔记、代码、老师画的图、作业解答，将在百度网盘发布
+
+链接：https://pan.baidu.com/s/1nFt_zuM5Lt1SgQCc8LO5rQ
+
+提取码：rsjs
 
 
 
