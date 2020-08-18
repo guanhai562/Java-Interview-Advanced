@@ -569,12 +569,6 @@
 
 - [C2C电商系统微服务架构120天实战训练营](docs/c2c/REAME.md)
 
-本周课程中的笔记、代码、老师画的图、作业解答，将在百度网盘发布
-
-链接：https://pan.baidu.com/s/1nFt_zuM5Lt1SgQCc8LO5rQ
-
-提取码：rsjs
-
 
 
 
