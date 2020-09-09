@@ -39,6 +39,14 @@
 
 - [18、Dubbo RPC框架集成Nacos注册中心](18.md)
 
+- [19_基于Dubbo开发C2C电商社会化治理平台人群服务](19.md)
+
+- [20_基于Dubbo开发C2C电商社会化治理平台任务服务](20.md)
+
+- [21_基于Dubbo开发C2C电商社会化治理平台权益服务](21.md)
+
+- [22、基于Dubbo开发C2C电商社会化治理平台基础服务](22.md)
+
 ## 资料链接
 
 ### 第一周：
@@ -55,3 +63,6 @@
 
 ### 第五周：
 链接: https://pan.baidu.com/s/1suOJGfhP7xYAcCHtpCGaWw 提取码: f19h
+
+### 第六周:
+链接: https://pan.baidu.com/s/1rHL7A9C56j0HUasU8Hay9Q 提取码: sp4p
