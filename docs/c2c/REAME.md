@@ -47,6 +47,12 @@
 
 - [22、基于Dubbo开发C2C电商社会化治理平台基础服务](22.md)
 
+- [23、微服务化的C2C电商社会化治理平台如何进行全链路测试](23.md)
+
+- [24、如何基于Nacos实现多测试环境与生产环境的隔离](24.md)
+
+- [25、如何基于Nacos实现多测试环境与生产环境的隔离](25.md)
+
 ## 资料链接
 
 ### 第一周：
@@ -66,3 +72,6 @@
 
 ### 第六周:
 链接: https://pan.baidu.com/s/1rHL7A9C56j0HUasU8Hay9Q 提取码: sp4p
+
+### 第七周：
+https://pan.baidu.com/s/1l6rwzp_TlH6XwfD3OkK7og  密码: mafw
