@@ -53,6 +53,8 @@
 
 - [25、如何基于Nacos实现多测试环境与生产环境的隔离](25.md)
 
+- [26、互联网公司部署方案：蓝绿部署、灰度发布以及滚动发布](26.md)
+
 ## 资料链接
 
 ### 第一周：
@@ -75,3 +77,6 @@
 
 ### 第七周：
 https://pan.baidu.com/s/1l6rwzp_TlH6XwfD3OkK7og  密码: mafw
+
+### 第八周：
+链接：https://pan.baidu.com/s/1RYwh_HVRGgGtX0jZyvkZ3g   密码: f3jf
