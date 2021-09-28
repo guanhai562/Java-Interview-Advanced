@@ -567,7 +567,8 @@
 
 - [C2C电商系统微服务架构120天实战训练营](docs/c2c/REAME.md)
 
-
+## [基于Elasticsearch的企业级电商搜索引擎实战](https://apppukyptrl1086.pc.xiaoe-tech.com/detail/p_60c75301e4b0c726421f08fe/6)
+- [基于Elasticsearch的企业级电商搜索引擎实战](https://gitee.com/project-practice-cloud/little-project-elasticsearch)
 
 
 
